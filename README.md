@@ -1,4 +1,4 @@
-# 🇩🇪 German Tax Declaration Chatbot
+# 🇩🇪 German Tax Declaration RAG-based Chatbot
 
 A 1‑file [Streamlit](https://streamlit.io/) app that answers questions about filing a **Steuererklärung** (German tax declaration) using only the content of [HandbookGermany.de – Tax Declaration](https://handbookgermany.de/en/tax-declaration).
 
