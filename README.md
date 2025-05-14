@@ -1,6 +1,6 @@
 # 🇩🇪 German Tax Declaration RAG-based Chatbot
 
-A 1‑file [Streamlit](https://streamlit.io/) app that answers questions about filing a **Steuererklärung** (German tax declaration) using only the content of [HandbookGermany.de – Tax Declaration](https://handbookgermany.de/en/tax-declaration).
+A [Streamlit](https://streamlit.io/) app that answers questions about filing a **Steuererklärung** (German tax declaration) using only the content of [HandbookGermany.de – Tax Declaration](https://handbookgermany.de/en/tax-declaration).
 
 Powered by **Retrieval‑Augmented Generation (RAG)** with [LangChain](https://python.langchain.com/), a **FAISS** vector database, and your choice of:
 
@@ -18,6 +18,10 @@ Powered by **Retrieval‑Augmented Generation (RAG)** with [LangChain](https://p
 ---
 
 ## 📸 Demo
+
+This is a screenshot of an actual answer of an app:
+
+![App screenshot showing the chatbot answering a German tax‑declaration question](docs/screenshot.png)
 
 ```
 streamlit run tax_declaration_chatbot.py
