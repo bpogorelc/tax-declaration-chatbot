@@ -1,6 +1,6 @@
 # data and models folders
-data/
-models/
+data/faiss_index/*
+models/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
