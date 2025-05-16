@@ -25,10 +25,6 @@ This is a screenshot of an actual answer of the app:
 
 ## 📸 Demo
 
-This is a screenshot of an actual answer of the app:
-
-![App screenshot showing the chatbot answering a German tax‑declaration question](docs/screenshot.png)
-
 ```
 streamlit run tax_declaration_chatbot.py
 ```
