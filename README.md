@@ -21,6 +21,10 @@ Powered by **Retrieval‑Augmented Generation (RAG)** with [LangChain](https://p
 
 This is a screenshot of an actual answer of an app:
 
+![App demo showing the chatbot answering a German tax‑declaration question](docs/demo_tax_declaration-chatbot.mp4)
+
+This is a screenshot of an actual answer of an app:
+
 ![App screenshot showing the chatbot answering a German tax‑declaration question](docs/screenshot.png)
 
 ```
