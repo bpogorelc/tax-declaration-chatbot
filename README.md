@@ -19,19 +19,15 @@ Powered by **Retrieval‑Augmented Generation (RAG)** with [LangChain](https://p
 
 ## 🎥 Video demo
 
-This is a screenshot of an actual answer of an app::
+This is a screenshot of an actual answer of the app:
 
-```html
-<video
-  src="docs/demo_tax_declaration-chatbot.mp4"
-  controls
-  width="100%"
-></video>
+```markdown
+▶️ [Watch a 20‑second demo (MP4, 1.8 MB)](docs/demo_tax_declaration-chatbot.mp4)
 ```
 
 ## 📸 Demo
 
-This is a screenshot of an actual answer of an app:
+This is a screenshot of an actual answer of the app:
 
 ![App screenshot showing the chatbot answering a German tax‑declaration question](docs/screenshot.png)
 
