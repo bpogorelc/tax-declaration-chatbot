@@ -22,7 +22,7 @@ Powered by **Retrieval‑Augmented Generation (RAG)** with [LangChain](https://p
 This is a screenshot of an actual answer of the app:
 
 ```markdown
-▶️ [Watch a 20‑second demo (MP4, 1.8 MB)](docs/demo_tax_declaration-chatbot.mp4)
+![Chatbot walkthrough](docs/demo_tax_declaration_chatbot.gif)
 ```
 
 ## 📸 Demo
